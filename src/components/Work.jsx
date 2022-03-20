@@ -1,5 +1,4 @@
 import { React, useRef, useEffect } from 'react';
-import vid3 from '../assets/vid-3.mp4';
 import vid4 from '../assets/vid-4.mp4';
 import pics from '../assets/pics.png'
 import { BsArrowUpRightCircle } from 'react-icons/bs';
