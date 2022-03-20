@@ -1,5 +1,4 @@
 import { React, useRef, useEffect } from 'react';
-import vid4 from '../assets/vid-4.mp4';
 import pics from '../assets/pics.png'
 import { BsArrowUpRightCircle } from 'react-icons/bs';
 import gsap from 'gsap';
@@ -150,7 +149,7 @@ const Work = () => {
           <div className="vid-cont flex lg:flex-row flex-col">
             <div className="my-vid3 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
               <video autoPlay muted loop className=''>
-                <source src={vid4} />
+                <source src={`https://i.imgur.com/KcfV0v1.mp4`} />
               </video>
             </div>
             <div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
