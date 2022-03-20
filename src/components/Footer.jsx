@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="form md:w-[50%]">
           <h3 className='text-base mb-6'>CONTACT</h3>
           <h1 className='text-3xl mb-8'>LET'S GET IN TOUCH</h1>
-          <form action="https://formsubmit.co/adeyunze05@gmail.com" method="post" className='flex flex-col items-start'>
+          <form action="https://formsubmit.co/fd54b70428ce9fcbc3137d9119350e23" method="post" className='flex flex-col items-start'>
             <input type="text" name="name" required className='mb-5 w-[100%] p-3 rounded text-black' placeholder='Enter Name'/>
             <input type="email" name="email" required className='mb-5 w-[100%] p-3 rounded text-black' placeholder='Enter Email'/>
             <textarea name="message" placeholder='Message' className='mb-5 w-[100%] p-3 rounded text-black'></textarea>
