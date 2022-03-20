@@ -109,7 +109,7 @@ const Work = () => {
           <div className="vid-cont flex lg:flex-row flex-col">
             <div className="my-vid1 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
               <video autoPlay muted loop className=''>
-                <source src={vid2} />
+                <source src={`https://i.imgur.com/eUvRabw.mp4`} />
               </video>
             </div>
             <div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
