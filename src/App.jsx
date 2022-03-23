@@ -4,7 +4,7 @@ import ImageSection from './components/ImageSection';
 import Skills from './components/Skills';
 import Work from './components/Work';
 import Footer from './components/Footer';
-// import { Link } from 'react-router-dom';
+
 
 function App() {
   return (
