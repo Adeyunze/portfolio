@@ -15,7 +15,7 @@ const Top = () => {
       </div>
     </nav>
 
-    <h1 className='md:font- md:text-5xl text-2xl md:mt-40 mt-20 md:w-[80%] md:leading-[60px] header-h1'>Frontend developer devoted to crafting beautiful web interface and user experiences focused on simplicity and purpose using modern technologies.</h1>
+    <h1 className='md:font- md:text-5xl text-2xl md:mt-40 mt-20 md:w-[80%] md:leading-[60px] header-h1'>Software Developer devoted to crafting beautiful web interface and user experiences focused on simplicity and purpose using modern technologies.</h1>
     </>
     
   )
