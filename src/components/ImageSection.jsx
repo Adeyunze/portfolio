@@ -86,7 +86,7 @@ const ImageSection = () => {
           </div>
         </div>
         <div className='img-cont md:w-[500px] md:pl-5 opacity-0'>
-          <img src={`https://i.imgur.com/RDZkncO.jpg`} alt="avatar" className='rounded w-full'/>
+          <img src={`https://i.imgur.com/EEuXBIu.jpg`} alt="avatar" className='rounded w-full'/>
         </div>
       </section>
       <h1 className='md:text-3xl header text-2xl mt-32 md:mt-40 md:leading-[40px]'>Having worked on websites and applications from ideation to launch, I have valuable experience working with modern technologies like JavaScript and it's frameworks. I also have experience working with prototyping tools like Figma.</h1>
