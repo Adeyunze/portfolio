@@ -82,7 +82,7 @@ const ImageSection = () => {
           <div className='md:w-[50%] w-full ml-5'>
             <div className="info w-[0px]"></div>
             <h3 className='font-extralight myText pt-8 text-[#D9D9D9]'>LOCATION</h3>
-            <p className='dance'>Lagos, Nigeria</p>
+            <p className='dance'>London, UK</p>
           </div>
         </div>
         <div className='img-cont md:w-[500px] md:pl-5 opacity-0'>
