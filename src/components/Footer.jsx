@@ -1,6 +1,6 @@
 import React from 'react'
 import { SiHashnode } from 'react-icons/si';
-import { FaTwitter, FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
+import {  FaGithub, FaLinkedin } from 'react-icons/fa';
 const Footer = () => {
   return (
     <footer className='bg-[#112262] px-7 md:px-16 pt-20' id='contact'>
