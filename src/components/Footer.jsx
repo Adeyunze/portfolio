@@ -18,9 +18,6 @@ const Footer = () => {
         <div className="socials md:w-[50%] md:ml-32 mt-12 md:mt-28">
           <h1 className='text-2xl'>Find me on my socials!!!😁</h1>
           <div className="social-links flex items-center mt-5 md:mt-12">
-            <a href="https://twitter.com/adeyunze" className='mr-5' target={`_blank`}>
-              <FaTwitter className='text-4xl'/>
-            </a>
             <a href="https://adeyunze.hashnode.dev/" className='mr-5' target={`_blank`}>
               <SiHashnode className='text-4xl'/>
             </a>
@@ -29,9 +26,6 @@ const Footer = () => {
             </a>
             <a href="https://github.com/Adeyunze" className='mr-5' target={`_blank`}>
               <FaGithub className='text-4xl'/>
-            </a>
-            <a href="https://www.instagram.com/yunze__/" className='mr-5' target={`_blank`}>
-              <FaInstagram className='text-4xl'/>
             </a>
           </div>
         </div>
