@@ -156,7 +156,7 @@ const Work = () => {
               </video>
             </div>
             <div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
-                <a href="https://yunze-countries-api.netlify.app/" target={`_blank`} className='flex items-center hover:text-[#7794FF] ease-in duration-300'>
+                <a href="https://yunus-countries-api.netlify.app/" target={`_blank`} className='flex items-center hover:text-[#7794FF] ease-in duration-300'>
                   <h1 className='lg:text-3xl text-2xl font-medium'>COUNTRIES API</h1>
                   <BsArrowUpRightCircle className='lg:text-3xl text-2xl ml-5'/>
                 </a>
