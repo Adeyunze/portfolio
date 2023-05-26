@@ -147,25 +147,20 @@ const Work = () => {
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
 						<p className="mt-5 text-lg font-light">
-							This project was built using NodeJS, React and TailwindCSS, this
-							project aimed to Build a fully functional and interactive
-							Ecommerce store
+							
 						</p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								NodeJS
+								SHOPIFY
 							</span>
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								MongoDB
-							</span>
-							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								Mongoose
+								LIQUID
 							</span>
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
 								REACT
 							</span>
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								TAILWIND
+								SWIPERJS
 							</span>
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
 								FIGMA
@@ -194,9 +189,7 @@ const Work = () => {
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
 						<p className="mt-5 text-lg font-light">
-							This project was built using React and TailwindCSS, this project
-							aimed to have a very good understanding of using React-Router and
-							React Hooks
+							
 						</p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
@@ -270,9 +263,7 @@ const Work = () => {
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
 						<p className="mt-5 text-lg font-light">
-							This project was built using TailwindCSS, React and React-Router
-							for each contry page. The Aim of this project was to be able to
-							understand how to work with API's.
+							
 						</p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
@@ -308,9 +299,7 @@ const Work = () => {
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
 						<p className="mt-5 text-lg font-light">
-							This project was built with HTML, CSS and Vanila JavaScript. The
-							Aim of this project was to be able to add items to cart and also
-							delete items from the cart.
+							
 						</p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
