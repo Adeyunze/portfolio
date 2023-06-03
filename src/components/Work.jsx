@@ -137,7 +137,7 @@ const Work = () => {
 					</div>
 					<div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
 						<a
-							href="https://yands.netlify.app/"
+							href="https://worldstunner.com/"
 							target={`_blank`}
 							className="flex items-center hover:text-[#7794FF] ease-in duration-300"
 						>
@@ -146,9 +146,7 @@ const Work = () => {
 							</h1>
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
-						<p className="mt-5 text-lg font-light">
-							
-						</p>
+						<p className="mt-5 text-lg font-light"></p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
 								SHOPIFY
@@ -188,9 +186,7 @@ const Work = () => {
 							</h1>
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
-						<p className="mt-5 text-lg font-light">
-							
-						</p>
+						<p className="mt-5 text-lg font-light"></p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
 								REACT
@@ -262,9 +258,7 @@ const Work = () => {
 							</h1>
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
-						<p className="mt-5 text-lg font-light">
-							
-						</p>
+						<p className="mt-5 text-lg font-light"></p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
 								REACT
@@ -298,9 +292,7 @@ const Work = () => {
 							</h1>
 							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
 						</a>
-						<p className="mt-5 text-lg font-light">
-							
-						</p>
+						<p className="mt-5 text-lg font-light"></p>
 						<div className="tags mt-10 flex items-center flex-wrap mt-[-2px] mr-[-3px]">
 							<span className="text-base text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
 								HTML
