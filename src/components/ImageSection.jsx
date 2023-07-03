@@ -2,7 +2,7 @@
 import { React, useEffect, useRef} from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import img from '../assets/profile1.jpeg'
+import img from '../assets/profile1.jpg'
 
 
 
