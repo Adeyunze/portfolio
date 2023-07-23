@@ -99,7 +99,7 @@ const ImageSection = () => {
 				</div>
 			</section>
 			<h1 className="md:text-2xl header text-lg mt-28 md:mt-40 md:leading-[40px]">
-				As a freelance professional, I bring my expertise in developing websites
+				As a web design professional, I bring my expertise in developing websites
 				and applications from concept to completion. With a keen focus on modern
 				technologies such as JavaScript and its frameworks, I have acquired
 				valuable experience in crafting innovative digital solutions.
