@@ -1,23 +1,24 @@
-import './index.css';
-import Navbar from './components/Navbar';
-import ImageSection from './components/ImageSection';
-import Skills from './components/Skills';
-import Work from './components/Work';
-import Footer from './components/Footer';
-
+import "./index.css";
+import Navbar from "./components/Navbar";
+import ImageSection from "./components/ImageSection";
+import Skills from "./components/Skills";
+import Work from "./components/Work";
+import Footer from "./components/Footer";
 
 function App() {
-  return (
-    <>
-    <div className='md:px-16 px-5'>
-      <Navbar/>
-      <ImageSection/>
-      <Skills/>
-      <Work/>
-    </div>
-      <Footer/>
-    </>
-  );
+	return (
+		<>
+			<div>
+				<Navbar />
+				<div className="md:mx-16 mx-5">
+					<ImageSection />
+					<Skills />
+					<Work />
+				</div>
+			</div>
+			<Footer />
+		</>
+	);
 }
 
 export default App;

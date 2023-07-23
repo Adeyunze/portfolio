@@ -91,7 +91,7 @@ const Work = () => {
 			<div className="flex-vid mb-32 lg:mb-40">
 				<div className="line w-full h-[1px] bg-white mb-14"></div>
 				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
+					<div className="my-vid bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
 						<video autoPlay muted loop className="">
 							<source src={`https://i.imgur.com/7PDsjfV.mp4`} />
 						</video>
@@ -138,7 +138,7 @@ const Work = () => {
 			<div className="flex-vid mb-32 lg:mb-40">
 				<div className="line w-full h-[1px] bg-white mb-14"></div>
 				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
+					<div className="my-vid bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
 						<img src={worldstunner} alt="worldstunner lashes" />
 					</div>
 					<div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
@@ -176,7 +176,7 @@ const Work = () => {
 			<div className="flex-vid mb-32 lg:mb-40">
 				<div className="line1 w-full h-[1px] bg-white mb-14"></div>
 				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid1 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
+					<div className="my-vid1 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
 						<img src={yandz} alt="yandz furniture store" />
 					</div>
 					<div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
@@ -211,7 +211,7 @@ const Work = () => {
 			<div className="flex-vid mb-32 lg:mb-40">
 				<div className="line w-full h-[1px] bg-white mb-14"></div>
 				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
+					<div className="my-vid bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
 						<video autoPlay muted loop className="">
 							<source src={`https://i.imgur.com/eUvRabw.mp4`} />
 						</video>
@@ -246,7 +246,7 @@ const Work = () => {
 			<div className="flex-vid mb-32 lg:mb-40">
 				<div className="line3 w-full h-[1px] bg-white mb-14"></div>
 				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid3 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
+					<div className="my-vid3 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
 						<video autoPlay muted loop className="">
 							<source src={`https://i.imgur.com/KcfV0v1.mp4`} />
 						</video>
@@ -280,7 +280,7 @@ const Work = () => {
 			<div className="flex-vid mb-32 lg:mb-40">
 				<div className="line4 w-full h-[1px] bg-white mb-14"></div>
 				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid4 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9">
+					<div className="my-vid4 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
 						<img src={pics} alt="my pic" />
 					</div>
 					<div className="right-vid lg:ml-16 lg:w-[70%] mt-5">
