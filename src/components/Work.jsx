@@ -135,79 +135,8 @@ const Work = () => {
 					</div>
 				</div>
 			</div>
-			<div className="flex-vid mb-32 lg:mb-40">
-				<div className="line w-full h-[1px] bg-white mb-14"></div>
-				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
-						<img src={worldstunner} alt="worldstunner lashes" />
-					</div>
-					<div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
-						<a
-							href="https://worldstunner.com/"
-							target={`_blank`}
-							className="flex items-center hover:text-[#7794FF] ease-in duration-300"
-						>
-							<h1 className="lg:text-2xl tracking-wide font-medium uppercase">
-								worldstunner store
-							</h1>
-							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
-						</a>
-						<p className="mt-5 text-lg font-light"></p>
-						<div className="tags mt-10 flex items-center flex-wrap mr-[-3px]">
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								SHOPIFY
-							</span>
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								LIQUID
-							</span>
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
-								REACT
-							</span>
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								SWIPERJS
-							</span>
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								FIGMA
-							</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div className="flex-vid mb-32 lg:mb-40">
-				<div className="line1 w-full h-[1px] bg-white mb-14"></div>
-				<div className="vid-cont flex lg:flex-row flex-col">
-					<div className="my-vid1 bg-[#445AAB] w-[100%] px-5 lg:px-16 py-4 lg:py-9 rounded-md">
-						<img src={yandz} alt="yandz furniture store" />
-					</div>
-					<div className="right-vid lg:ml-16 lg:w-[50%] mt-5">
-						<a
-							href="https://yandz.shop/"
-							target={`_blank`}
-							className="flex items-center hover:text-[#7794FF] ease-in duration-300"
-						>
-							<h1 className="lg:text-2xl tracking-wide font-medium uppercase">
-								Yandz furniture store
-							</h1>
-							<BsArrowUpRightCircle className="lg:text-3xl text-2xl ml-5" />
-						</a>
-						<p className="mt-5 text-lg font-light"></p>
-						<div className="tags lg:mt-10 flex items-center flex-wrap mr-[-3px]">
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px]">
-								SHOPIFY
-							</span>
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								LIQUID
-							</span>
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								JAVASCRIPT
-							</span>
-							<span className="text-slate-300 px-7 py-2 border rounded-full text-sm tracking-widest mt-[15px] lg:mr-[3px] mr-[15px] lg:ml-3">
-								REACT
-							</span>
-						</div>
-					</div>
-				</div>
-			</div>
+			
+		
 			<div className="flex-vid mb-32 lg:mb-40">
 				<div className="line w-full h-[1px] bg-white mb-14"></div>
 				<div className="vid-cont flex lg:flex-row flex-col">
