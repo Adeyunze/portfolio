@@ -3,8 +3,6 @@ import pics from "../assets/pics.png";
 import { BsArrowUpRightCircle } from "react-icons/bs";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import worldstunner from "../assets/worldstunner.png";
-import yandz from "../assets/yandz.png";
 
 const Work = () => {
 	gsap.registerPlugin(ScrollTrigger);
